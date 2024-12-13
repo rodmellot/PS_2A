@@ -49,3 +49,8 @@ boxplot(
 )
 
 
+esquisser(data_all)
+
+
+
+
